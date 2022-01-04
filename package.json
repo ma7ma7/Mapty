@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/ma7ma7/Mapty/issues"
   },
-  "homepage": "https://github.com/ma7ma7/Mapty#readme"
+  "homepage": "https://github.com/ma7ma7/Mapty#readme",
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  }
 }
